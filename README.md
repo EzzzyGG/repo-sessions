@@ -1,2 +1,17 @@
 # repo-sessions
-Private repo for storing a prompt and session notes
+
+Этот репозиторий хранит базовый промт и (при необходимости) журналы работы.
+
+## Как заставить нового бота работать по этому промту
+
+Используй одну из команд ниже (лучше — с URL, чтобы не было двусмысленностей):
+
+- **Рекомендуется (самый надёжный вариант):**
+  - «Работай строго по промту: https://github.com/EzzzyGG/repo-sessions/blob/main/PROMPT.md»
+
+- **Короткий вариант (если бот понимает owner/repo@ref:path):**
+  - «Промт: EzzzyGG/repo-sessions@main:PROMPT.md. Работай строго по нему.»
+
+## Файлы
+- Промт: [PROMPT.md](./PROMPT.md)
+- Сессии (опционально): `sessions/`
